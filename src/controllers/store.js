@@ -51,8 +51,8 @@ module.exports = {
                         <li><a href="#" data-toggle="modal" data-target="#withdrawModal">Withdraw</a></li>
                         </ul>
                         <ul class="nav navbar-nav navbar-right">
-                        <!-- <li><a href="https://wa.me/+12312660426/?text=join%20blow-spent"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li> -->
-                        <li><a href="https://wa.me/+12312660426/?text=join%20blow-spent"><span class="glyphicon glyphicon-log-in"></span> Log out</a></li>
+                        <!-- <li><a href="https://wa.me/+14155238886/?text=join%20blow-spent"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li> -->
+                        <li><a href="https://wa.me/+14155238886/?text=join%20blow-spent"><span class="glyphicon glyphicon-log-in"></span> Log out</a></li>
                         </ul>
                     </div>
                     </div>
@@ -430,8 +430,8 @@ module.exports = {
                       <ul class="nav navbar-nav">
                       </ul>
                       <ul class="nav navbar-nav navbar-right">
-                      <!-- <li><a href="https://wa.me/+12312660426/?text=join%20blow-spent"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li> -->
-                      <li><a href="https://wa.me/+12312660426/?text=join%20blow-spent"><span class="glyphicon glyphicon-log-in"></span> Log out</a></li>
+                      <!-- <li><a href="https://wa.me/+14155238886/?text=join%20blow-spent"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li> -->
+                      <li><a href="https://wa.me/+14155238886/?text=join%20blow-spent"><span class="glyphicon glyphicon-log-in"></span> Log out</a></li>
                       </ul>
                   </div>
                   </div>
@@ -559,7 +559,7 @@ module.exports = {
                                   document.getElementById('fund-success').style.display = 'block'
                                   document.getElementById('fund-success-msg').innerHTML = responseText
                                   setTimeout(function () {
-                                    window.location = 'https://wa.me/+12312660426/?text=wallet' 
+                                    window.location = 'https://wa.me/+14155238886/?text=wallet' 
                                   }, 4000);
                                   // $('#result-edit-success').html(responseText);
                               },
